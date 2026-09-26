@@ -1,0 +1,121 @@
+{
+  "objects": [
+    {
+      "id": "store",
+      "name": "门店",
+      "description": "门店经营实体及归属关系",
+      "field_count": 7
+    },
+    {
+      "id": "territory",
+      "name": "Territory",
+      "description": "区域经营责任与目标边界",
+      "field_count": 6
+    },
+    {
+      "id": "dealer",
+      "name": "代理商",
+      "description": "渠道伙伴及治理属性",
+      "field_count": 5
+    }
+  ],
+  "fields": [
+    {
+      "id": "store_id",
+      "object": "store",
+      "name": "门店编码",
+      "key": "store_id",
+      "type": "文本",
+      "required": true,
+      "description": "企业内唯一门店标识",
+      "placeholder": "请输入门店编码",
+      "example": "ST-SH-018"
+    },
+    {
+      "id": "store_name",
+      "object": "store",
+      "name": "门店名称",
+      "key": "store_name",
+      "type": "文本",
+      "required": true,
+      "description": "门店对外名称",
+      "placeholder": "请输入门店名称",
+      "example": "上海虹桥体验店"
+    },
+    {
+      "id": "sales_amount",
+      "object": "store",
+      "name": "销售额",
+      "key": "sales_amount",
+      "type": "金额",
+      "required": true,
+      "description": "统计周期内含税销售金额",
+      "placeholder": "请输入统计周期内销售额",
+      "example": "286500"
+    },
+    {
+      "id": "gross_margin_rate",
+      "object": "store",
+      "name": "毛利率",
+      "key": "gross_margin_rate",
+      "type": "百分比",
+      "required": false,
+      "description": "销售毛利占销售额比例",
+      "placeholder": "请输入 0 至 100 的百分比",
+      "example": "23.8"
+    },
+    {
+      "id": "inventory_days",
+      "object": "store",
+      "name": "库存天数",
+      "key": "inventory_days",
+      "type": "数字",
+      "required": false,
+      "description": "按近期日均销量折算的库存覆盖天数",
+      "placeholder": "请输入库存覆盖天数",
+      "example": "47"
+    },
+    {
+      "id": "health_score",
+      "object": "store",
+      "name": "健康评分",
+      "key": "health_score",
+      "type": "评分",
+      "required": false,
+      "description": "门店综合经营健康评分，0 至 100",
+      "placeholder": "请输入 0 至 100 的评分",
+      "example": "72"
+    },
+    {
+      "id": "risk_level",
+      "object": "store",
+      "name": "风险等级",
+      "key": "risk_level",
+      "type": "单选",
+      "required": false,
+      "description": "当前经营风险分类",
+      "placeholder": "请选择风险等级",
+      "example": "中风险"
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "name": "销售达成率",
+      "unit": "%",
+      "formula": "实际销售额 / 销售目标"
+    },
+    {
+      "id": "gross_margin",
+      "name": "毛利率",
+      "unit": "%",
+      "formula": "销售毛利 / 销售额"
+    },
+    {
+      "id": "inventory_days",
+      "name": "库存周转天数",
+      "unit": "天",
+      "formula": "平均库存金额 / 日均销售成本"
+    }
+  ]
+}

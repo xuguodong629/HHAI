@@ -1,0 +1,25 @@
+# Frontend dependencies and build output
+apps/hhai-app/frontend/node_modules/
+apps/hhai-app/frontend/.next/
+apps/hhai-app/frontend/out/
+
+# Python caches and environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+
+# Local configuration and data
+.env
+*.db
+*.sqlite
+*.sqlite3
+data/logs/**
+data/uploads/**
+data/exports/**
+data/backups/**
+!data/logs/.gitkeep
+!data/uploads/.gitkeep
+!data/exports/.gitkeep
+!data/backups/.gitkeep

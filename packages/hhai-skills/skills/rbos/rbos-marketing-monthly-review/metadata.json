@@ -1,0 +1,27 @@
+{
+  "id": "rbos-marketing-monthly-review",
+  "name": "RBOS·Marketing·营销活动月经营复盘",
+  "version": "1.1.0",
+  "system": "RBOS",
+  "category": "Marketing",
+  "tags": [
+    "intelligence",
+    "marketing",
+    "rbos",
+    "rbos-marketing"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "RBOS/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "rbos-marketing-loss-warning",
+    "rbos-marketing-new-customer-acquisition"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

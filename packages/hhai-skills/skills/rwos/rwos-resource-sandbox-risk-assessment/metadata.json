@@ -1,0 +1,26 @@
+{
+  "id": "rwos-resource-sandbox-risk-assessment",
+  "name": "RWOS·Resource-Sandbox·资源沙盘风险评估",
+  "version": "1.0.0",
+  "system": "RWOS",
+  "category": "Resource-Sandbox",
+  "tags": [
+    "intelligence",
+    "resource-sandbox",
+    "rwos"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "RWOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "rwos-resource-sandbox-risk-assessment"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

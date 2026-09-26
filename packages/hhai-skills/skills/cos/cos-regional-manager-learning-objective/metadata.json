@@ -1,0 +1,26 @@
+{
+  "id": "cos-regional-manager-learning-objective",
+  "name": "COS·Regional-Manager·区域经理学院学习目标",
+  "version": "1.0.0",
+  "system": "COS",
+  "category": "Regional-Manager",
+  "tags": [
+    "cos",
+    "intelligence",
+    "regional-manager"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "COS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "cos-regional-manager-learning-objective"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

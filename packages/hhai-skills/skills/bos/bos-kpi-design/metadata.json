@@ -1,0 +1,27 @@
+{
+  "id": "bos-kpi-design",
+  "name": "BOS·KPI·绩效管理体系设计",
+  "version": "1.1.0",
+  "system": "BOS",
+  "category": "KPI",
+  "tags": [
+    "bos",
+    "bos-kpi",
+    "intelligence",
+    "kpi"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "BOS/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "bos-kpi-data-review",
+    "bos-kpi-diagnosis"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

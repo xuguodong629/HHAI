@@ -1,0 +1,26 @@
+{
+  "id": "dos-regional-cockpit-model-monitoring",
+  "name": "DOS·Regional-Cockpit·区域驾驶舱模型监控",
+  "version": "1.0.0",
+  "system": "DOS",
+  "category": "Regional-Cockpit",
+  "tags": [
+    "dos",
+    "intelligence",
+    "regional-cockpit"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "DOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "dos-regional-cockpit-model-monitoring"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "cos-salesman-certification-standard",
+  "name": "COS·Salesman·业务员学院认证标准",
+  "version": "1.0.0",
+  "system": "COS",
+  "category": "Salesman",
+  "tags": [
+    "cos",
+    "intelligence",
+    "salesman"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "COS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "cos-salesman-certification-standard"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

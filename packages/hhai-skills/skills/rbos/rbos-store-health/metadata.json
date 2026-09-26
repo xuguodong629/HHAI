@@ -1,0 +1,15 @@
+{
+  "id": "rbos-store-health",
+  "name": "RBOS·门店健康诊断",
+  "version": "0.1.0",
+  "system": "RBOS",
+  "category": "Store Operations",
+  "tags": ["rbos", "store-health", "intelligence"],
+  "owner": "HHAI",
+  "status": "mock",
+  "language": "zh-CN",
+  "dependencies": ["metadata/metadata.json"],
+  "related_skills": [],
+  "updated_at": "2026-09-26",
+  "created_at": "2026-09-26"
+}

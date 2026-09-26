@@ -1,0 +1,26 @@
+{
+  "id": "rwos-channel-war-map-resource-allocation",
+  "name": "RWOS·Channel-War-Map·渠道战争地图资源分配",
+  "version": "1.0.0",
+  "system": "RWOS",
+  "category": "Channel-War-Map",
+  "tags": [
+    "channel-war-map",
+    "intelligence",
+    "rwos"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "RWOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "rwos-channel-war-map-resource-allocation"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

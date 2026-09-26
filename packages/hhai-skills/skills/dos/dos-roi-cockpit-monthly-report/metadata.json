@@ -1,0 +1,26 @@
+{
+  "id": "dos-roi-cockpit-monthly-report",
+  "name": "DOS·ROI-Cockpit·ROI 驾驶舱月报生成",
+  "version": "1.0.0",
+  "system": "DOS",
+  "category": "ROI-Cockpit",
+  "tags": [
+    "dos",
+    "intelligence",
+    "roi-cockpit"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "DOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "dos-roi-cockpit-monthly-report"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

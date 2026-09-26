@@ -1,0 +1,27 @@
+{
+  "id": "rbos-pricing-new-customer-acquisition",
+  "name": "RBOS·Pricing·价格管理新客获取",
+  "version": "1.1.0",
+  "system": "RBOS",
+  "category": "Pricing",
+  "tags": [
+    "intelligence",
+    "pricing",
+    "rbos",
+    "rbos-pricing"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "RBOS/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "rbos-pricing-monthly-review",
+    "rbos-pricing-repeat-purchase"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "uos-user-portrait-user-review",
+  "name": "UOS·User-Portrait·用户画像数据库用户复盘",
+  "version": "1.0.0",
+  "system": "UOS",
+  "category": "User-Portrait",
+  "tags": [
+    "intelligence",
+    "uos",
+    "user-portrait"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "UOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "uos-user-portrait-user-review"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

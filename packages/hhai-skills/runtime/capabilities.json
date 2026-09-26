@@ -1,0 +1,24 @@
+{
+  "package_count": 1101,
+  "by_kind": {
+    "skill": 1061,
+    "sop": 40
+  },
+  "by_system": {
+    "bos": 140,
+    "cos": 170,
+    "dos": 170,
+    "industry": 60,
+    "rbos": 181,
+    "rwos": 170,
+    "sop": 40,
+    "uos": 170
+  },
+  "package_contract": [
+    "SKILL.md",
+    "metadata.json",
+    "prompts/",
+    "playbooks/",
+    "checklist.md"
+  ]
+}

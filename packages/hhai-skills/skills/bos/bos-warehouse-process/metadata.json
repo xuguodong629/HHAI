@@ -1,0 +1,27 @@
+{
+  "id": "bos-warehouse-process",
+  "name": "BOS·Warehouse·仓储管理流程设计",
+  "version": "1.1.0",
+  "system": "BOS",
+  "category": "Warehouse",
+  "tags": [
+    "bos",
+    "bos-warehouse",
+    "intelligence",
+    "warehouse"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "BOS/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "bos-warehouse-planning",
+    "bos-warehouse-risk-control"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

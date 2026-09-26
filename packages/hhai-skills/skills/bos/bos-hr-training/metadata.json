@@ -1,0 +1,26 @@
+{
+  "id": "bos-hr-training",
+  "name": "BOS·HR·人力资源岗位训练",
+  "version": "1.1.0",
+  "system": "BOS",
+  "category": "HR",
+  "tags": [
+    "bos",
+    "bos-hr",
+    "hr",
+    "intelligence"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "BOS/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "bos-hr-roles"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

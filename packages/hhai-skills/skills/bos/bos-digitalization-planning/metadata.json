@@ -1,0 +1,27 @@
+{
+  "id": "bos-digitalization-planning",
+  "name": "BOS·Digitalization·企业数字化年度规划",
+  "version": "1.1.0",
+  "system": "BOS",
+  "category": "Digitalization",
+  "tags": [
+    "bos",
+    "bos-digitalization",
+    "digitalization",
+    "intelligence"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "BOS/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "bos-digitalization-optimization",
+    "bos-digitalization-process"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

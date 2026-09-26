@@ -1,0 +1,9 @@
+{
+  "skill_id": "rbos-store-health",
+  "charts": [
+    { "id": "sales", "title": "销量趋势", "type": "area", "source": "trends.sales" },
+    { "id": "gross-margin", "title": "毛利率趋势", "type": "line", "source": "trends.gross_margin_rate" },
+    { "id": "inventory-days", "title": "库存天数", "type": "bar", "source": "trends.inventory_days" },
+    { "id": "health-score", "title": "健康评分", "type": "line", "source": "trends.health_score" }
+  ]
+}

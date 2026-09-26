@@ -1,0 +1,1 @@
+"""Territory local JSON access."""

@@ -1,0 +1,26 @@
+{
+  "id": "dos-inventory-cockpit-dashboard-design",
+  "name": "DOS·Inventory-Cockpit·库存驾驶舱驾驶舱设计",
+  "version": "1.0.0",
+  "system": "DOS",
+  "category": "Inventory-Cockpit",
+  "tags": [
+    "dos",
+    "intelligence",
+    "inventory-cockpit"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "DOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "dos-inventory-cockpit-dashboard-design"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

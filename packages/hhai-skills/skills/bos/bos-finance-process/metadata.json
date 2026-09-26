@@ -1,0 +1,27 @@
+{
+  "id": "bos-finance-process",
+  "name": "BOS·Finance·经营财务流程设计",
+  "version": "1.1.0",
+  "system": "BOS",
+  "category": "Finance",
+  "tags": [
+    "bos",
+    "bos-finance",
+    "finance",
+    "intelligence"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "BOS/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "bos-finance-planning",
+    "bos-finance-risk-control"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

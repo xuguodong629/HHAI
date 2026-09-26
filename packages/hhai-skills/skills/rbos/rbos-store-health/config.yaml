@@ -1,0 +1,10 @@
+id: rbos-store-health
+domain: RBOS
+version: 0.1.0
+status: mock
+language: zh-CN
+input_schema: schemas/input.schema.json
+prompt: prompts/main.md
+workflow: workflow.md
+report_template: report-template.md
+ai_enabled: false

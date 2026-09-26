@@ -1,0 +1,27 @@
+{
+  "id": "sop-distributor-reconciliation",
+  "name": "SOP·Distributor·分销对账",
+  "version": "1.1.0",
+  "system": "SOP",
+  "category": "Distributor",
+  "tags": [
+    "distributor",
+    "intelligence",
+    "sop",
+    "sop-distributor"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "SOP/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "sop-distributor-authorization",
+    "sop-distributor-selection"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

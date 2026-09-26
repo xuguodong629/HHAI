@@ -1,0 +1,27 @@
+{
+  "id": "bos-compensation-optimization",
+  "name": "BOS·Compensation·薪酬激励持续优化",
+  "version": "1.1.0",
+  "system": "BOS",
+  "category": "Compensation",
+  "tags": [
+    "bos",
+    "bos-compensation",
+    "compensation",
+    "intelligence"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "BOS/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "bos-compensation-monthly-management",
+    "bos-compensation-planning"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

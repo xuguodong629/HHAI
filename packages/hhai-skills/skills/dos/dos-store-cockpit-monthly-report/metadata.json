@@ -1,0 +1,26 @@
+{
+  "id": "dos-store-cockpit-monthly-report",
+  "name": "DOS·Store-Cockpit·门店驾驶舱月报生成",
+  "version": "1.0.0",
+  "system": "DOS",
+  "category": "Store-Cockpit",
+  "tags": [
+    "dos",
+    "intelligence",
+    "store-cockpit"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "DOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "dos-store-cockpit-monthly-report"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

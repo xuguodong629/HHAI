@@ -1,0 +1,26 @@
+{
+  "id": "cos-marketing-role-profile",
+  "name": "COS·Marketing·营销学院岗位画像",
+  "version": "1.0.0",
+  "system": "COS",
+  "category": "Marketing",
+  "tags": [
+    "cos",
+    "intelligence",
+    "marketing"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "COS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "cos-marketing-role-profile"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

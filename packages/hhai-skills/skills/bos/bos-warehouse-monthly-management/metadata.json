@@ -1,0 +1,27 @@
+{
+  "id": "bos-warehouse-monthly-management",
+  "name": "BOS·Warehouse·仓储管理月度管理",
+  "version": "1.1.0",
+  "system": "BOS",
+  "category": "Warehouse",
+  "tags": [
+    "bos",
+    "bos-warehouse",
+    "intelligence",
+    "warehouse"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "BOS/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "bos-warehouse-meeting",
+    "bos-warehouse-optimization"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

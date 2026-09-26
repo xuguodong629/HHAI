@@ -1,0 +1,26 @@
+{
+  "id": "sop-reports-weekly-report",
+  "name": "SOP·Reports·周报",
+  "version": "1.1.0",
+  "system": "SOP",
+  "category": "Reports",
+  "tags": [
+    "intelligence",
+    "reports",
+    "sop",
+    "sop-reports"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "SOP/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "sop-reports-monthly-report"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

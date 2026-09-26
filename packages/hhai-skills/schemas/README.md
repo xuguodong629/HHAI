@@ -1,0 +1,3 @@
+# Schemas
+
+Shared JSON schemas.

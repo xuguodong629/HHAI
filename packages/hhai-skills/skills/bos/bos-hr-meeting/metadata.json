@@ -1,0 +1,27 @@
+{
+  "id": "bos-hr-meeting",
+  "name": "BOS·HR·人力资源会议机制",
+  "version": "1.1.0",
+  "system": "BOS",
+  "category": "HR",
+  "tags": [
+    "bos",
+    "bos-hr",
+    "hr",
+    "intelligence"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "BOS/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "bos-hr-document-control",
+    "bos-hr-monthly-management"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

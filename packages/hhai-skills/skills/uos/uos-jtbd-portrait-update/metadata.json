@@ -1,0 +1,26 @@
+{
+  "id": "uos-jtbd-portrait-update",
+  "name": "UOS·JTBD·JTBD 数据库画像更新",
+  "version": "1.0.0",
+  "system": "UOS",
+  "category": "JTBD",
+  "tags": [
+    "intelligence",
+    "jtbd",
+    "uos"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "UOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "uos-jtbd-portrait-update"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

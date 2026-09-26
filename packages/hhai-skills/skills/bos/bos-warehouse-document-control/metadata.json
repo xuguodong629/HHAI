@@ -1,0 +1,27 @@
+{
+  "id": "bos-warehouse-document-control",
+  "name": "BOS·Warehouse·仓储管理文件控制",
+  "version": "1.1.0",
+  "system": "BOS",
+  "category": "Warehouse",
+  "tags": [
+    "bos",
+    "bos-warehouse",
+    "intelligence",
+    "warehouse"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "BOS/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "bos-warehouse-diagnosis",
+    "bos-warehouse-meeting"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

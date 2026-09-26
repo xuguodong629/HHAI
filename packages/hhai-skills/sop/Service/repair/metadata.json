@@ -1,0 +1,26 @@
+{
+  "id": "sop-service-repair",
+  "name": "SOP·Service·维修服务",
+  "version": "1.1.0",
+  "system": "SOP",
+  "category": "Service",
+  "tags": [
+    "intelligence",
+    "service",
+    "sop",
+    "sop-service"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "SOP/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "sop-service-installation"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

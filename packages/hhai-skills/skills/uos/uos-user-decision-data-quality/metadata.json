@@ -1,0 +1,26 @@
+{
+  "id": "uos-user-decision-data-quality",
+  "name": "UOS·User-Decision·用户决策数据库数据质量",
+  "version": "1.0.0",
+  "system": "UOS",
+  "category": "User-Decision",
+  "tags": [
+    "intelligence",
+    "uos",
+    "user-decision"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "UOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "uos-user-decision-data-quality"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

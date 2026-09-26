@@ -1,0 +1,25 @@
+{
+  "report_id": "RPT-20260926-001",
+  "skill_id": "rbos-store-health",
+  "generated_at": "2026-09-26T09:30:00+08:00",
+  "store": { "id": "ST-SH-018", "name": "上海虹桥体验店", "region": "华东一部" },
+  "summary": { "sales_amount": 286500, "gross_margin_rate": 0.238, "inventory_days": 47, "health_score": 72, "risk_level": "中风险" },
+  "trends": [
+    { "month": "04月", "sales": 242000, "gross_margin_rate": 0.251, "inventory_days": 39, "health_score": 78 },
+    { "month": "05月", "sales": 258000, "gross_margin_rate": 0.246, "inventory_days": 41, "health_score": 77 },
+    { "month": "06月", "sales": 271000, "gross_margin_rate": 0.242, "inventory_days": 43, "health_score": 75 },
+    { "month": "07月", "sales": 263000, "gross_margin_rate": 0.239, "inventory_days": 45, "health_score": 74 },
+    { "month": "08月", "sales": 279000, "gross_margin_rate": 0.241, "inventory_days": 44, "health_score": 76 },
+    { "month": "09月", "sales": 286500, "gross_margin_rate": 0.238, "inventory_days": 47, "health_score": 72 }
+  ],
+  "risks": [
+    { "title": "库存周转偏慢", "severity": "中风险", "detail": "库存覆盖 47 天，高于 Territory 目标 12 天。" },
+    { "title": "毛利率连续回落", "severity": "关注", "detail": "近三个月毛利率累计下降 0.4 个百分点。" }
+  ],
+  "actions": [
+    { "title": "制定慢销 SKU 联合清理计划", "owner": "门店店长", "due_date": "2026-09-30", "priority": "高" },
+    { "title": "复核重点品类促销折扣", "owner": "区域经理", "due_date": "2026-10-02", "priority": "中" },
+    { "title": "复盘高毛利产品陈列执行", "owner": "品类负责人", "due_date": "2026-10-05", "priority": "中" }
+  ],
+  "markdown": "# 门店健康诊断报告\n\n**门店：** 上海虹桥体验店（ST-SH-018）  \n**统计周期：** 2026 年 9 月  \n**健康评分：** 72 / 100 · 中风险\n\n## 经营结论\n\n销售额达到 28.65 万元，环比保持增长；库存覆盖天数升至 47 天，毛利率小幅回落。建议优先推动慢销库存处理，并复核促销折扣对毛利的影响。\n\n## 风险观察\n\n- **库存周转偏慢：** 高于 Territory 目标 12 天。\n- **毛利率连续回落：** 近三个月累计下降 0.4 个百分点。\n\n## 建议行动\n\n1. 门店店长于 9 月 30 日前提交慢销 SKU 联合清理计划。\n2. 区域经理于 10 月 2 日前复核重点品类促销折扣。\n3. 品类负责人于 10 月 5 日前复盘高毛利产品陈列执行。"
+}

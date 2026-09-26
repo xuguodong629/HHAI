@@ -1,0 +1,26 @@
+{
+  "id": "cos-distributor-competency-model",
+  "name": "COS·Distributor·经销商学院能力模型",
+  "version": "1.0.0",
+  "system": "COS",
+  "category": "Distributor",
+  "tags": [
+    "cos",
+    "distributor",
+    "intelligence"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "COS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "cos-distributor-competency-model"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

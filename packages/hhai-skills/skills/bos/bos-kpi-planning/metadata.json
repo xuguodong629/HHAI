@@ -1,0 +1,27 @@
+{
+  "id": "bos-kpi-planning",
+  "name": "BOS·KPI·绩效管理年度规划",
+  "version": "1.1.0",
+  "system": "BOS",
+  "category": "KPI",
+  "tags": [
+    "bos",
+    "bos-kpi",
+    "intelligence",
+    "kpi"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "BOS/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "bos-kpi-optimization",
+    "bos-kpi-process"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

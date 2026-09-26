@@ -1,0 +1,26 @@
+{
+  "id": "dos-inventory-cockpit-decision-log",
+  "name": "DOS·Inventory-Cockpit·库存驾驶舱决策日志",
+  "version": "1.0.0",
+  "system": "DOS",
+  "category": "Inventory-Cockpit",
+  "tags": [
+    "dos",
+    "intelligence",
+    "inventory-cockpit"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "DOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "dos-inventory-cockpit-decision-log"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

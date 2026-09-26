@@ -1,0 +1,27 @@
+{
+  "id": "rbos-category-management-repeat-purchase",
+  "name": "RBOS·Category-Management·品类管理老客复购",
+  "version": "1.1.0",
+  "system": "RBOS",
+  "category": "Category-Management",
+  "tags": [
+    "category-management",
+    "intelligence",
+    "rbos",
+    "rbos-category-management"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "RBOS/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "rbos-category-management-new-customer-acquisition",
+    "rbos-category-management-target-decomposition"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

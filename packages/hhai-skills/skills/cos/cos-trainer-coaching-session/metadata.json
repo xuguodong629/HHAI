@@ -1,0 +1,26 @@
+{
+  "id": "cos-trainer-coaching-session",
+  "name": "COS·Trainer·培训师学院教练辅导",
+  "version": "1.0.0",
+  "system": "COS",
+  "category": "Trainer",
+  "tags": [
+    "cos",
+    "intelligence",
+    "trainer"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "COS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "cos-trainer-coaching-session"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

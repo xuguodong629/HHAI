@@ -1,0 +1,26 @@
+{
+  "id": "cos-ai-coach-ai-coaching",
+  "name": "COS·AI-Coach·AI 陪练中心AI 陪练课程",
+  "version": "1.0.0",
+  "system": "COS",
+  "category": "AI-Coach",
+  "tags": [
+    "ai-coach",
+    "cos",
+    "intelligence"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "COS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "cos-ai-coach-ai-coaching"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

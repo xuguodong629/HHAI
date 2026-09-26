@@ -1,0 +1,27 @@
+{
+  "id": "industry-waterheater-selling-points",
+  "name": "Industry·WaterHeater·热水器销售卖点",
+  "version": "1.1.0",
+  "system": "Industry",
+  "category": "WaterHeater",
+  "tags": [
+    "industry",
+    "industry-waterheater",
+    "intelligence",
+    "waterheater"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "Industry/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "industry-waterheater-scenario-map",
+    "industry-waterheater-technology-map"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

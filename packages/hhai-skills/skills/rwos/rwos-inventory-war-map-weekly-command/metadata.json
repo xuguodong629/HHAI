@@ -1,0 +1,26 @@
+{
+  "id": "rwos-inventory-war-map-weekly-command",
+  "name": "RWOS·Inventory-War-Map·库存战争地图周指挥",
+  "version": "1.0.0",
+  "system": "RWOS",
+  "category": "Inventory-War-Map",
+  "tags": [
+    "intelligence",
+    "inventory-war-map",
+    "rwos"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "RWOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "rwos-inventory-war-map-weekly-command"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

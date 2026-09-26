@@ -1,0 +1,26 @@
+{
+  "id": "uos-user-needs-trigger-detection",
+  "name": "UOS·User-Needs·用户需求数据库触发器识别",
+  "version": "1.0.0",
+  "system": "UOS",
+  "category": "User-Needs",
+  "tags": [
+    "intelligence",
+    "uos",
+    "user-needs"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "UOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "uos-user-needs-trigger-detection"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

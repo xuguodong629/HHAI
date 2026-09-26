@@ -1,0 +1,5 @@
+[
+  { "id": "RPT-20260926-001", "title": "上海虹桥体验店健康诊断", "skill_id": "rbos-store-health", "scope": "ST-SH-018 · 华东一部", "created_at": "2026-09-26 09:30", "risk_level": "中风险", "format": "Markdown + JSON" },
+  { "id": "RPT-20260925-004", "title": "华东一部周经营复盘", "skill_id": "rbos-marketing-forecasting", "scope": "华东一部", "created_at": "2026-09-25 17:10", "risk_level": "关注", "format": "Markdown + JSON" },
+  { "id": "RPT-20260924-002", "title": "华南渠道转化分析", "skill_id": "rbos-channel-operation-conversion-improvement", "scope": "华南增长区", "created_at": "2026-09-24 14:05", "risk_level": "低风险", "format": "Markdown + JSON" }
+]

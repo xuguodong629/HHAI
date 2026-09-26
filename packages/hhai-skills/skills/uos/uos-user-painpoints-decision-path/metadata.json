@@ -1,0 +1,26 @@
+{
+  "id": "uos-user-painpoints-decision-path",
+  "name": "UOS·User-PainPoints·用户痛点数据库决策路径",
+  "version": "1.0.0",
+  "system": "UOS",
+  "category": "User-PainPoints",
+  "tags": [
+    "intelligence",
+    "uos",
+    "user-painpoints"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "UOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "uos-user-painpoints-decision-path"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

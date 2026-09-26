@@ -1,0 +1,20 @@
+{
+  "skill_id": "rbos-store-health",
+  "cases": [
+    {
+      "id": "valid-store-input",
+      "input": { "store_id": "ST-SH-018", "period": "2026-09" },
+      "expected": { "schema_valid": true, "report_has_risk_level": true }
+    },
+    {
+      "id": "missing-store-id",
+      "input": { "period": "2026-09" },
+      "expected": { "schema_valid": false }
+    },
+    {
+      "id": "mock-runtime-no-ai",
+      "input": { "store_id": "ST-SH-018", "period": "2026-09" },
+      "expected": { "ai_invocations": 0, "report_has_actions": true }
+    }
+  ]
+}

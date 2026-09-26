@@ -1,0 +1,26 @@
+{
+  "id": "uos-user-psychology-psychology-signal",
+  "name": "UOS·User-Psychology·消费心理数据库心理信号",
+  "version": "1.0.0",
+  "system": "UOS",
+  "category": "User-Psychology",
+  "tags": [
+    "intelligence",
+    "uos",
+    "user-psychology"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "UOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "uos-user-psychology-psychology-signal"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

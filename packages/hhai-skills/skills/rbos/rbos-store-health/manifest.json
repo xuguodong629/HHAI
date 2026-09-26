@@ -1,0 +1,11 @@
+{
+  "id": "rbos-store-health",
+  "name": "RBOS·门店健康诊断",
+  "domain": "RBOS",
+  "version": "0.1.0",
+  "status": "mock",
+  "language": "zh-CN",
+  "input_schema": "schemas/input.schema.json",
+  "output_contract": "apps/hhai-app/mock/store-health.json",
+  "capability": "评估销量、毛利与库存健康并输出可执行经营行动"
+}

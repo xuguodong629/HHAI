@@ -1,0 +1,26 @@
+{
+  "id": "uos-jtbd-tag-model",
+  "name": "UOS·JTBD·JTBD 数据库标签模型",
+  "version": "1.0.0",
+  "system": "UOS",
+  "category": "JTBD",
+  "tags": [
+    "intelligence",
+    "jtbd",
+    "uos"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "UOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "uos-jtbd-tag-model"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

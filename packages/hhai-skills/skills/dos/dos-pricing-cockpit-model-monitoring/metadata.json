@@ -1,0 +1,26 @@
+{
+  "id": "dos-pricing-cockpit-model-monitoring",
+  "name": "DOS·Pricing-Cockpit·价格驾驶舱模型监控",
+  "version": "1.0.0",
+  "system": "DOS",
+  "category": "Pricing-Cockpit",
+  "tags": [
+    "dos",
+    "intelligence",
+    "pricing-cockpit"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "DOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "dos-pricing-cockpit-model-monitoring"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

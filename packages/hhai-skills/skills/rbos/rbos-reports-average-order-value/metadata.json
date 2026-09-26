@@ -1,0 +1,27 @@
+{
+  "id": "rbos-reports-average-order-value",
+  "name": "RBOS·Reports·经营报表客单价提升",
+  "version": "1.1.0",
+  "system": "RBOS",
+  "category": "Reports",
+  "tags": [
+    "intelligence",
+    "rbos",
+    "rbos-reports",
+    "reports"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "RBOS/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "rbos-reports-attachment-rate",
+    "rbos-reports-benchmarking"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

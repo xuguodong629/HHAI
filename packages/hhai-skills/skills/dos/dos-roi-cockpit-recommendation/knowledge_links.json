@@ -1,0 +1,24 @@
+{
+  "skill_id": "dos-roi-cockpit-recommendation",
+  "phase": 3,
+  "upstream": [
+    "DOS/ROI-Cockpit",
+    "Shared/Metrics",
+    "Shared/Glossary"
+  ],
+  "downstream": [
+    "DOS/Executive-Cockpit",
+    "AI/Agent",
+    "AI/RAG"
+  ],
+  "related_skills": [
+    "diagnosis",
+    "playbook",
+    "metrics"
+  ],
+  "relation_rules": [
+    "同系统优先",
+    "跨系统引用必须说明用途",
+    "引用必须可追溯"
+  ]
+}

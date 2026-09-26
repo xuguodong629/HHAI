@@ -1,0 +1,27 @@
+{
+  "id": "rbos-inventory-daily-management",
+  "name": "RBOS·Inventory·库存运营日经营管理",
+  "version": "1.1.0",
+  "system": "RBOS",
+  "category": "Inventory",
+  "tags": [
+    "intelligence",
+    "inventory",
+    "rbos",
+    "rbos-inventory"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "RBOS/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "rbos-inventory-conversion-improvement",
+    "rbos-inventory-forecasting"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

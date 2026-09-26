@@ -1,0 +1,26 @@
+{
+  "id": "cos-assessment-knowledge-assessment",
+  "name": "COS·Assessment·考试评估中心知识评估",
+  "version": "1.0.0",
+  "system": "COS",
+  "category": "Assessment",
+  "tags": [
+    "assessment",
+    "cos",
+    "intelligence"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "COS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "cos-assessment-knowledge-assessment"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

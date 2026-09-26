@@ -1,0 +1,26 @@
+{
+  "id": "sop-sales-sales-review",
+  "name": "SOP·Sales·销售复盘",
+  "version": "1.1.0",
+  "system": "SOP",
+  "category": "Sales",
+  "tags": [
+    "intelligence",
+    "sales",
+    "sop",
+    "sop-sales"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "SOP/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "sop-sales-quotation"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

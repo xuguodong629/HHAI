@@ -1,0 +1,27 @@
+{
+  "id": "bos-workflow-design",
+  "name": "BOS·Workflow·企业流程体系设计",
+  "version": "1.1.0",
+  "system": "BOS",
+  "category": "Workflow",
+  "tags": [
+    "bos",
+    "bos-workflow",
+    "intelligence",
+    "workflow"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "BOS/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "bos-workflow-data-review",
+    "bos-workflow-diagnosis"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

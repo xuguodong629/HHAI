@@ -1,0 +1,22 @@
+{
+  "id": "bos-digitalization",
+  "name": "Digitalization",
+  "version": "1.0.0",
+  "system": "BOS",
+  "category": "architecture",
+  "tags": [
+    "bos",
+    "architecture"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [],
+  "related_skills": [
+    "DOS",
+    "COS",
+    "SOP"
+  ],
+  "updated_at": "2026-09-23",
+  "created_at": "2026-09-23"
+}

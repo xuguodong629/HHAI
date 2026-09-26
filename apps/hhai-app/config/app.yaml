@@ -1,0 +1,17 @@
+app:
+  name: HHAI-App
+  version: 0.1.0
+  locale: zh-CN
+  local_first: true
+  ai_enabled: false
+
+frontend:
+  host: 127.0.0.1
+  port: 3000
+
+backend:
+  host: 127.0.0.1
+  port: 8000
+
+database:
+  path: ../../data/database/hhai.db

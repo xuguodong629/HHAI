@@ -1,0 +1,21 @@
+{
+  "id": "hhai-skills",
+  "name": "HHAI-Skills",
+  "version": "2.0.0",
+  "system": "HHAI-Skills",
+  "category": "repository",
+  "tags": [
+    "hhai-skills",
+    "repository"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [],
+  "related_skills": [
+    "runtime",
+    "index"
+  ],
+  "updated_at": "2026-09-23",
+  "created_at": "2026-09-23"
+}

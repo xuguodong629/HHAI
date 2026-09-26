@@ -1,0 +1,26 @@
+{
+  "id": "dos-ai-report-engine-model-monitoring",
+  "name": "DOS·AI-Report-Engine·AI 自动报告引擎模型监控",
+  "version": "1.0.0",
+  "system": "DOS",
+  "category": "AI-Report-Engine",
+  "tags": [
+    "ai-report-engine",
+    "dos",
+    "intelligence"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "DOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "dos-ai-report-engine-model-monitoring"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

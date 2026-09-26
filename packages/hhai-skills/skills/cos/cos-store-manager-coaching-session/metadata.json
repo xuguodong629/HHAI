@@ -1,0 +1,26 @@
+{
+  "id": "cos-store-manager-coaching-session",
+  "name": "COS·Store-Manager·店长学院教练辅导",
+  "version": "1.0.0",
+  "system": "COS",
+  "category": "Store-Manager",
+  "tags": [
+    "cos",
+    "intelligence",
+    "store-manager"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "COS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "cos-store-manager-coaching-session"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

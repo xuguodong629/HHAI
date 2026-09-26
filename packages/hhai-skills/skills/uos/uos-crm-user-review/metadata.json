@@ -1,0 +1,26 @@
+{
+  "id": "uos-crm-user-review",
+  "name": "UOS·CRM·CRM 用户数据库用户复盘",
+  "version": "1.0.0",
+  "system": "UOS",
+  "category": "CRM",
+  "tags": [
+    "crm",
+    "intelligence",
+    "uos"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "UOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "uos-crm-user-review"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

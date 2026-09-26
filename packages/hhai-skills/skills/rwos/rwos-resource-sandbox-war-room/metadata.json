@@ -1,0 +1,26 @@
+{
+  "id": "rwos-resource-sandbox-war-room",
+  "name": "RWOS·Resource-Sandbox·资源沙盘作战室",
+  "version": "1.0.0",
+  "system": "RWOS",
+  "category": "Resource-Sandbox",
+  "tags": [
+    "intelligence",
+    "resource-sandbox",
+    "rwos"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "RWOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "rwos-resource-sandbox-war-room"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

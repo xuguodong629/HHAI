@@ -1,0 +1,26 @@
+{
+  "id": "uos-decision-triggers-psychology-signal",
+  "name": "UOS·Decision-Triggers·决策触发器数据库心理信号",
+  "version": "1.0.0",
+  "system": "UOS",
+  "category": "Decision-Triggers",
+  "tags": [
+    "decision-triggers",
+    "intelligence",
+    "uos"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "UOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "uos-decision-triggers-psychology-signal"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

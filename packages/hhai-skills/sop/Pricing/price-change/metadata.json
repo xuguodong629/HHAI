@@ -1,0 +1,27 @@
+{
+  "id": "sop-pricing-price-change",
+  "name": "SOP·Pricing·调价流程",
+  "version": "1.1.0",
+  "system": "SOP",
+  "category": "Pricing",
+  "tags": [
+    "intelligence",
+    "pricing",
+    "sop",
+    "sop-pricing"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "SOP/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "sop-pricing-price-audit",
+    "sop-pricing-price-protection"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

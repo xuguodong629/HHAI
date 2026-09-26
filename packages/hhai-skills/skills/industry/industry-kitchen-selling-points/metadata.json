@@ -1,0 +1,27 @@
+{
+  "id": "industry-kitchen-selling-points",
+  "name": "Industry·Kitchen·厨电销售卖点",
+  "version": "1.1.0",
+  "system": "Industry",
+  "category": "Kitchen",
+  "tags": [
+    "industry",
+    "industry-kitchen",
+    "intelligence",
+    "kitchen"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "Industry/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "industry-kitchen-scenario-map",
+    "industry-kitchen-technology-map"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

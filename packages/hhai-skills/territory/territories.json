@@ -1,0 +1,57 @@
+[
+  {
+    "id": "cn-east-01",
+    "name": "华东一部",
+    "owner": "陈晓岚",
+    "organization": "华东大区",
+    "category": "智能家电",
+    "channel": "直营 + 经销",
+    "region": "上海、苏南",
+    "target": 12800000,
+    "status": "运行中"
+  },
+  {
+    "id": "cn-south-02",
+    "name": "华南增长区",
+    "owner": "周启明",
+    "organization": "华南大区",
+    "category": "智能家电",
+    "channel": "经销 + 电商",
+    "region": "广东、广西",
+    "target": 9600000,
+    "status": "运行中"
+  },
+  {
+    "id": "cn-north-03",
+    "name": "华北核心区",
+    "owner": "李若彤",
+    "organization": "华北大区",
+    "category": "全品类",
+    "channel": "直营 + 经销",
+    "region": "京津冀",
+    "target": 11200000,
+    "status": "运行中"
+  },
+  {
+    "id": "cn-west-04",
+    "name": "西南拓展区",
+    "owner": "王骁",
+    "organization": "西南大区",
+    "category": "厨电",
+    "channel": "经销",
+    "region": "川渝、云南",
+    "target": 7400000,
+    "status": "待启用"
+  },
+  {
+    "id": "cn-central-05",
+    "name": "华中协同区",
+    "owner": "赵一宁",
+    "organization": "华中大区",
+    "category": "全品类",
+    "channel": "经销 + 电商",
+    "region": "湖北、湖南",
+    "target": 8300000,
+    "status": "运行中"
+  }
+]

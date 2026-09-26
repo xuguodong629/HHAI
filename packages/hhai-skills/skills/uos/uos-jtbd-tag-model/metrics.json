@@ -1,0 +1,34 @@
+{
+  "skill_id": "uos-jtbd-tag-model",
+  "phase": 3,
+  "system": "UOS",
+  "category": "JTBD",
+  "metrics": [
+    {
+      "name": "目标达成率",
+      "formula": "实际值 / 目标值",
+      "grain": "周期"
+    },
+    {
+      "name": "诊断闭环率",
+      "formula": "已关闭诊断数 / 总诊断数",
+      "grain": "周期"
+    },
+    {
+      "name": "建议采纳率",
+      "formula": "已采纳建议数 / 有效建议数",
+      "grain": "周期"
+    },
+    {
+      "name": "数据完整率",
+      "formula": "有效字段数 / 必需字段数",
+      "grain": "数据集"
+    },
+    {
+      "name": "人工升级率",
+      "formula": "升级事项数 / 触发事项数",
+      "grain": "周期"
+    }
+  ],
+  "governance": "指标必须标注来源、口径、责任人、更新时间和权限范围。"
+}

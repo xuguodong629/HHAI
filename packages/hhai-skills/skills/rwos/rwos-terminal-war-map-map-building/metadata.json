@@ -1,0 +1,26 @@
+{
+  "id": "rwos-terminal-war-map-map-building",
+  "name": "RWOS·Terminal-War-Map·终端战争地图地图构建",
+  "version": "1.0.0",
+  "system": "RWOS",
+  "category": "Terminal-War-Map",
+  "tags": [
+    "intelligence",
+    "rwos",
+    "terminal-war-map"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "RWOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "rwos-terminal-war-map-map-building"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rwos-regional-strategy-map-resource-allocation",
+  "name": "RWOS·Regional-Strategy-Map·区域战略地图资源分配",
+  "version": "1.0.0",
+  "system": "RWOS",
+  "category": "Regional-Strategy-Map",
+  "tags": [
+    "intelligence",
+    "regional-strategy-map",
+    "rwos"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "RWOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "rwos-regional-strategy-map-resource-allocation"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

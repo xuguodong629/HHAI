@@ -1,0 +1,26 @@
+{
+  "id": "uos-user-scenario-segmentation",
+  "name": "UOS·User-Scenario·用户场景数据库用户分群",
+  "version": "1.0.0",
+  "system": "UOS",
+  "category": "User-Scenario",
+  "tags": [
+    "intelligence",
+    "uos",
+    "user-scenario"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "UOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "uos-user-scenario-segmentation"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

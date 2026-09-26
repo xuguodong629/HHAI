@@ -1,0 +1,21 @@
+{
+  "id": "dos-ai-report-engine",
+  "name": "AI 自动报告引擎",
+  "version": "1.0.0",
+  "system": "DOS",
+  "category": "architecture",
+  "tags": [
+    "dos",
+    "ai-report-engine"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [],
+  "related_skills": [
+    "AI/Agent",
+    "Index"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

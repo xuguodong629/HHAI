@@ -1,0 +1,26 @@
+{
+  "id": "industry-kitchen-technology-map",
+  "name": "Industry·Kitchen·厨电技术地图",
+  "version": "1.1.0",
+  "system": "Industry",
+  "category": "Kitchen",
+  "tags": [
+    "industry",
+    "industry-kitchen",
+    "intelligence",
+    "kitchen"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "Industry/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "industry-kitchen-selling-points"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

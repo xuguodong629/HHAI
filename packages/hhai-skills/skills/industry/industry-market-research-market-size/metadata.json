@@ -1,0 +1,27 @@
+{
+  "id": "industry-market-research-market-size",
+  "name": "Industry·Market-Research·市场规模",
+  "version": "1.1.0",
+  "system": "Industry",
+  "category": "Market-Research",
+  "tags": [
+    "industry",
+    "industry-market-research",
+    "intelligence",
+    "market-research"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "Industry/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "industry-market-research-consumer-research",
+    "industry-market-research-regional-research"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

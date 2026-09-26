@@ -1,0 +1,26 @@
+{
+  "id": "rwos-risk-radar-weekly-command",
+  "name": "RWOS·Risk-Radar·风险雷达周指挥",
+  "version": "1.0.0",
+  "system": "RWOS",
+  "category": "Risk-Radar",
+  "tags": [
+    "intelligence",
+    "risk-radar",
+    "rwos"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "RWOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "rwos-risk-radar-weekly-command"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

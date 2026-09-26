@@ -1,0 +1,26 @@
+{
+  "id": "dos-executive-cockpit-cockpit-review",
+  "name": "DOS·Executive-Cockpit·CEO 驾驶舱驾驶舱复盘",
+  "version": "1.0.0",
+  "system": "DOS",
+  "category": "Executive-Cockpit",
+  "tags": [
+    "dos",
+    "executive-cockpit",
+    "intelligence"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "DOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "dos-executive-cockpit-cockpit-review"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

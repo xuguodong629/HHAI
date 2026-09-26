@@ -1,0 +1,19 @@
+{
+  "centers": [
+    "skills",
+    "prompts",
+    "playbooks",
+    "sop",
+    "cases",
+    "metrics",
+    "dashboards",
+    "graphs",
+    "schemas",
+    "runtime",
+    "shared",
+    "index",
+    "assets",
+    "docs"
+  ],
+  "runtime_registry": "../runtime/registry.json"
+}

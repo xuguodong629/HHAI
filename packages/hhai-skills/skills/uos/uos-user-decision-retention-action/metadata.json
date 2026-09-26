@@ -1,0 +1,26 @@
+{
+  "id": "uos-user-decision-retention-action",
+  "name": "UOS·User-Decision·用户决策数据库留存动作",
+  "version": "1.0.0",
+  "system": "UOS",
+  "category": "User-Decision",
+  "tags": [
+    "intelligence",
+    "uos",
+    "user-decision"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "UOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "uos-user-decision-retention-action"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

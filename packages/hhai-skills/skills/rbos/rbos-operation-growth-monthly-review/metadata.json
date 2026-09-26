@@ -1,0 +1,27 @@
+{
+  "id": "rbos-operation-growth-monthly-review",
+  "name": "RBOS·Operation-Growth·运营增长月经营复盘",
+  "version": "1.1.0",
+  "system": "RBOS",
+  "category": "Operation-Growth",
+  "tags": [
+    "intelligence",
+    "operation-growth",
+    "rbos",
+    "rbos-operation-growth"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "RBOS/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "rbos-operation-growth-loss-warning",
+    "rbos-operation-growth-new-customer-acquisition"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

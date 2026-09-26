@@ -1,0 +1,27 @@
+{
+  "id": "rbos-retail-store-average-order-value",
+  "name": "RBOS·Retail-Store·门店经营客单价提升",
+  "version": "1.1.0",
+  "system": "RBOS",
+  "category": "Retail-Store",
+  "tags": [
+    "intelligence",
+    "rbos",
+    "rbos-retail-store",
+    "retail-store"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "RBOS/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "rbos-retail-store-attachment-rate",
+    "rbos-retail-store-benchmarking"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

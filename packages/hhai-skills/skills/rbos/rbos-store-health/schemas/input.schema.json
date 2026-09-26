@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": ["store_id", "period"],
+  "properties": {
+    "store_id": { "type": "string", "title": "门店编码" },
+    "period": { "type": "string", "title": "统计周期", "default": "2026-09" },
+    "sales_amount": { "type": "number", "title": "月销售额（元）", "minimum": 0 },
+    "gross_margin_rate": { "type": "number", "title": "毛利率（%）", "minimum": 0, "maximum": 100 },
+    "inventory_days": { "type": "number", "title": "库存天数", "minimum": 0 }
+  },
+  "additionalProperties": false
+}

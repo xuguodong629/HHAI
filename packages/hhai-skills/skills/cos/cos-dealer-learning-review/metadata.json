@@ -1,0 +1,26 @@
+{
+  "id": "cos-dealer-learning-review",
+  "name": "COS·Dealer·代理商学院学习复盘",
+  "version": "1.0.0",
+  "system": "COS",
+  "category": "Dealer",
+  "tags": [
+    "cos",
+    "dealer",
+    "intelligence"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "COS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "cos-dealer-learning-review"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

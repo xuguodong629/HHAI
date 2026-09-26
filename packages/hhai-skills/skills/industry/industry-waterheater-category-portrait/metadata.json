@@ -1,0 +1,26 @@
+{
+  "id": "industry-waterheater-category-portrait",
+  "name": "Industry·WaterHeater·热水器品类画像",
+  "version": "1.1.0",
+  "system": "Industry",
+  "category": "WaterHeater",
+  "tags": [
+    "industry",
+    "industry-waterheater",
+    "intelligence",
+    "waterheater"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "Industry/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "industry-waterheater-scenario-map"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

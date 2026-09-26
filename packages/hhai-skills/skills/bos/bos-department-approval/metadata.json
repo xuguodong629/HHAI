@@ -1,0 +1,26 @@
+{
+  "id": "bos-department-approval",
+  "name": "BOS·Department·部门建设审批机制",
+  "version": "1.1.0",
+  "system": "BOS",
+  "category": "Department",
+  "tags": [
+    "bos",
+    "bos-department",
+    "department",
+    "intelligence"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "BOS/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "bos-department-audit"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

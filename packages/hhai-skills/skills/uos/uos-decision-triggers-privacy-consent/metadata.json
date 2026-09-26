@@ -1,0 +1,26 @@
+{
+  "id": "uos-decision-triggers-privacy-consent",
+  "name": "UOS·Decision-Triggers·决策触发器数据库隐私同意",
+  "version": "1.0.0",
+  "system": "UOS",
+  "category": "Decision-Triggers",
+  "tags": [
+    "decision-triggers",
+    "intelligence",
+    "uos"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "UOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "uos-decision-triggers-privacy-consent"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

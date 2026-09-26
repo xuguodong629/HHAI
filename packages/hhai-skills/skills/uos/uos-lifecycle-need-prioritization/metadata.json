@@ -1,0 +1,26 @@
+{
+  "id": "uos-lifecycle-need-prioritization",
+  "name": "UOS·Lifecycle·用户生命周期数据库需求优先级",
+  "version": "1.0.0",
+  "system": "UOS",
+  "category": "Lifecycle",
+  "tags": [
+    "intelligence",
+    "lifecycle",
+    "uos"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "UOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "uos-lifecycle-need-prioritization"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

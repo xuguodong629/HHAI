@@ -1,0 +1,22 @@
+{
+  "id": "cos-regional-manager",
+  "name": "Regional-Manager",
+  "version": "1.0.0",
+  "system": "COS",
+  "category": "architecture",
+  "tags": [
+    "cos",
+    "architecture"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [],
+  "related_skills": [
+    "RBOS",
+    "BOS",
+    "AI"
+  ],
+  "updated_at": "2026-09-23",
+  "created_at": "2026-09-23"
+}

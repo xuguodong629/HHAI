@@ -1,0 +1,8 @@
+{
+  "metrics": [
+    { "id": "sales_amount", "name": "销售额", "unit": "元", "source_field": "sales_amount" },
+    { "id": "gross_margin_rate", "name": "毛利率", "unit": "%", "source_field": "gross_margin_rate" },
+    { "id": "inventory_days", "name": "库存天数", "unit": "天", "source_field": "inventory_days" },
+    { "id": "health_score", "name": "健康评分", "unit": "分", "range": [0, 100] }
+  ]
+}

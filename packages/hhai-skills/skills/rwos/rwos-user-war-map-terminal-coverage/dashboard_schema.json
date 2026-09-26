@@ -1,0 +1,32 @@
+{
+  "skill_id": "rwos-user-war-map-terminal-coverage",
+  "title": "RWOS·User-War-Map·用户战争地图终端覆盖",
+  "refresh": "daily",
+  "dimensions": [
+    "system",
+    "category",
+    "organization",
+    "region",
+    "period"
+  ],
+  "measures": [
+    "target_rate",
+    "diagnosis_close_rate",
+    "recommendation_adoption_rate",
+    "data_completeness"
+  ],
+  "filters": [
+    "period",
+    "organization",
+    "region",
+    "status"
+  ],
+  "alerts": [
+    {
+      "metric": "data_completeness",
+      "operator": "<",
+      "threshold": 0.95,
+      "action": "人工复核"
+    }
+  ]
+}

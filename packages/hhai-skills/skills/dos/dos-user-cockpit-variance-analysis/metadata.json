@@ -1,0 +1,26 @@
+{
+  "id": "dos-user-cockpit-variance-analysis",
+  "name": "DOS·User-Cockpit·用户驾驶舱差异分析",
+  "version": "1.0.0",
+  "system": "DOS",
+  "category": "User-Cockpit",
+  "tags": [
+    "dos",
+    "intelligence",
+    "user-cockpit"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "DOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "dos-user-cockpit-variance-analysis"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

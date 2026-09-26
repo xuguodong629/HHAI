@@ -1,0 +1,26 @@
+{
+  "id": "dos-channel-cockpit-executive-brief",
+  "name": "DOS·Channel-Cockpit·渠道驾驶舱高管简报",
+  "version": "1.0.0",
+  "system": "DOS",
+  "category": "Channel-Cockpit",
+  "tags": [
+    "channel-cockpit",
+    "dos",
+    "intelligence"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "DOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "dos-channel-cockpit-executive-brief"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}

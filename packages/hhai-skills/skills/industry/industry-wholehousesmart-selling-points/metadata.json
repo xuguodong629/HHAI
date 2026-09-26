@@ -1,0 +1,27 @@
+{
+  "id": "industry-wholehousesmart-selling-points",
+  "name": "Industry·WholeHouseSmart·全屋智能销售卖点",
+  "version": "1.1.0",
+  "system": "Industry",
+  "category": "WholeHouseSmart",
+  "tags": [
+    "industry",
+    "industry-wholehousesmart",
+    "intelligence",
+    "wholehousesmart"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "Industry/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "industry-wholehousesmart-scenario-map",
+    "industry-wholehousesmart-technology-map"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

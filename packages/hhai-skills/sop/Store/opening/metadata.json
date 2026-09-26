@@ -1,0 +1,26 @@
+{
+  "id": "sop-store-opening",
+  "name": "SOP·Store·开店流程",
+  "version": "1.1.0",
+  "system": "SOP",
+  "category": "Store",
+  "tags": [
+    "intelligence",
+    "sop",
+    "sop-store",
+    "store"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "SOP/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "sop-store-daily-operation"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-23"
+}

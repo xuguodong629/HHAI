@@ -1,0 +1,26 @@
+{
+  "id": "dos-daily-weekly-monthly-reports-monthly-report",
+  "name": "DOS·Daily-Weekly-Monthly-Reports·经营报告中心月报生成",
+  "version": "1.0.0",
+  "system": "DOS",
+  "category": "Daily-Weekly-Monthly-Reports",
+  "tags": [
+    "daily-weekly-monthly-reports",
+    "dos",
+    "intelligence"
+  ],
+  "owner": "HHAI",
+  "status": "production",
+  "language": "zh-CN",
+  "dependencies": [
+    "DOS/metadata.json",
+    "AI/metadata.json"
+  ],
+  "related_skills": [
+    "AI/Agent",
+    "DOS/Executive-Cockpit",
+    "dos-daily-weekly-monthly-reports-monthly-report"
+  ],
+  "updated_at": "2026-09-24",
+  "created_at": "2026-09-24"
+}
